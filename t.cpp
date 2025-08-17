@@ -4,10 +4,10 @@ int main()
 {
 	jpdqwdq
 dwqdjqwjdqwd
-[kdq[k[dqkd
-,'qw;'dqwd
+dasdasdsa
+,'qwdsadasd
 ',d;,wq;,dqw
-';kdqwdqw
+';kddasdsadas
 'kdq
 }
 
