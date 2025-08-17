@@ -5,9 +5,9 @@ int main()
 	jpdqwdq
 dwqdjqwjdqwd
 dasdasdsa
-,'qwdsadasd
+1111111111
 ',d;,wq;,dqw
-';kddasdsadas
+22222222
 'kdq
 }
 
